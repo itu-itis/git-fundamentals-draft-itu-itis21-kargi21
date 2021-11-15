@@ -8,3 +8,6 @@ em {    font-style: normal;
 	background-color: lightgrey;
 	font-weight: bold;
    }
+ul {
+	list-style-type: square;
+   }
